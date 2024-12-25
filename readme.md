@@ -4,7 +4,7 @@
 BrainWave SVM is a data analysis and classification project that aims to detect whether a person is in an excited or neutral state using brainwaves collected from a Muse S headband. The project uses Python, pylsl for data collection, various libraries for data analysis, and a Support Vector Machine (SVM) for classification. The underlying goal is to demonstrate how real-time brainwave monitoring can facilitate decision-making, such as in marketing, consultations, or personal wellness tracking.
 
 ### Spike in Brain Activity After Opening Email
-- The image below is the spike in my 'personal brain activity' after I saw 2 unread emails, at 2 different points in time
+- The image below is the spike in my 'PERSONAL' brain activity, after I saw 2 unread emails, at 2 different points in time:
  <img src="./img/spike.png" style="width: 200px;" alt="Image 1">
 
 ### Data Acquisition
