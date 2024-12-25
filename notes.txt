@@ -1,8 +1,0 @@
-- Standard Scaler scales each Column (Feature), not each row (entry)
-- lower p-value indicates that there's less likelihood that the observed difference between groups is by chance, and it is actually linked.
-- Null Hypothesis: No difference between two groups feature
-  Alternative Hypothesis: Suggests there is an effect or a difference between 2 groups
-- if p-value < chosen threshold (often 0.05), then we have strong evidence AGAINST null hypothesis. We reject Null Hypothesis
-- t_stat, p_value = ttest_ind(neutral, excited, equal_var=False)
-  if t_stat is negative, means average of neutral < average of excited, and vice versa
--
