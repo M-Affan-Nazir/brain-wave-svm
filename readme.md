@@ -14,7 +14,8 @@ Libraries: pylsl (Python LSL) for streaming EEG data into Python.
     - data_collection.py uses pylsl to connect to the Muse S headband and record 5 brainwave frequencies (e.g., alpha, beta, gamma, delta, theta) from 4 different electrode locations on the scalp.
     - The script then saves these to a CSV file for each individual in both neutral and excited states.
 3) Data Format:
-    - Each row in the CSV typically contains 20 feature values (5 frequency bands * 4 channels)
+    - The script stores data in .xlsx File and .csv files
+    - Each row in the orignal_data.csv typically contains 20 feature values (5 frequency bands * 4 channels).
 
 ### Feature Extraction
 1) Frequency Bands: The project analyzes five primary brainwave frequencies: alpha, beta, gamma, delta, and theta.
