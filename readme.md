@@ -15,7 +15,7 @@ Libraries: pylsl (Python LSL) for streaming EEG data into Python.
     - The script then saves these to a CSV file for each individual in both neutral and excited states.
 3) Data Format:
     - The script stores data in .xlsx File and .csv files
-    - Each row in the orignal_data.csv typically contains 20 feature values (5 frequency bands * 4 channels).
+    - Each row in the orignal_data.csv typically contains 20 feature values (5 frequency bands * 4 channels), Classification/Label Columns, and name of the person to whom the data refer's to
 
 ### Feature Extraction
 1) Frequency Bands: The project analyzes five primary brainwave frequencies: alpha, beta, gamma, delta, and theta.
