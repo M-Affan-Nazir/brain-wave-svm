@@ -1,4 +1,4 @@
-# NeuroWave: Brainwave-Based Excitement Detection
+# BrainWave SVM: Brainwave-Based Excitement Detection
 
 ### Overview
 BrainWave SVM is a data analysis and classification project that aims to detect whether a person is in an excited or neutral state using brainwaves collected from a Muse S headband. The project uses Python, pylsl for data collection, various libraries for data analysis, and a Support Vector Machine (SVM) for classification. The underlying goal is to demonstrate how real-time brainwave monitoring can facilitate decision-making, such as in marketing, consultations, or personal wellness tracking.
