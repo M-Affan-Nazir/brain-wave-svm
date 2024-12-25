@@ -5,7 +5,7 @@ BrainWave SVM is a data analysis and classification project that aims to detect 
 
 ### Spike in Brain Activity After Opening Email
 - The image below is the spike in my 'PERSONAL' brain activity, after I saw 2 unread emails, at 2 different points in time:
- <img src="./img/spike.png" style="width: 200px;" alt="Image 1">
+ <img src="./img/spike.png" style="width: 800px; height:800px" alt="Image 1">
 
 ### Data Acquisition
 1) Equipment: Muse S headband (other Muse headsets may also work but may produce slightly different data formats).
