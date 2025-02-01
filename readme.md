@@ -37,4 +37,4 @@ Analysis can be found in data_analysis.ipynb.
 ### Model Training
 1) Classifier: A Support Vector Machine (SVM) is used to classify new observations into excited (1) or neutral (0).
 2) Training: We use LeaveOneOut cross-validation when training the model
-3) Accuracy: The Model achieved an accuracy of 0.9
+3) Accuracy: The Model achieved an accuracy of 90%
